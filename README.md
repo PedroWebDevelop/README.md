@@ -36,7 +36,7 @@ Atualmente lidero os sistemas da **AgilSystem**, com foco em qualidade de códig
 ### 📫 Contato
 
 - Email: [pedromarquesn@agilsystem.com](mailto:pedromarquesn@agilsystem.com)
-- LinkedIn: [linkedin.com/in/pedromarquesdev](https://www.linkedin.com/in/pedromarquesdev)
+- LinkedIn: [linkedin.com/in/pedromarquesdev](https://www.linkedin.com/in/pedro-marques-581167240/)
 
 ---
 
